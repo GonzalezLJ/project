@@ -1,4 +1,4 @@
-![bolt](C:\Users\Rohlik.cz\codecool\bolt)
+![bolt](electricity.png)
 # Czeching the change: An analysis of Electricity Prices and Their Drivers in Czechia
 ### 1. **Project Definition**
    - **Objective:** Analyze historical electricity prices in Czechia to identify trends, seasonal patterns, and potential factors influencing price changes.
@@ -53,3 +53,6 @@
 - **Excel:** For simple data cleaning and basic analysis.
 - **Tableau/Power BI:** For creating interactive visualizations and dashboards.
 This project will not only help you practice data analysis and visualization but also give you insights into the energy sector in Czechia. Good luck with your analysis!
+
+
+[def]: ~electricity.png
