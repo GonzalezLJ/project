@@ -1,5 +1,5 @@
 ![bolt](C:\Users\Rohlik.cz\codecool\bolt)
-# Czeching the change
+# Czeching the change: An analysis of Electricity Prices and Their Drivers in Czechia
 ### 1. **Project Definition**
    - **Objective:** Analyze historical electricity prices in Czechia to identify trends, seasonal patterns, and potential factors influencing price changes.
    - **Key Questions:**
